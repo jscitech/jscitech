@@ -1,4 +1,5 @@
-### Hi there 👋
+### JSciTech - The Journal of Science and Technology
+files associated with articles will be found here
 
 <!--
 **jscitech/jscitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
